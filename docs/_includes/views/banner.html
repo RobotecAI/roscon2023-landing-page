@@ -70,10 +70,15 @@
   {%- endif -%}
   <style>
     page-banner-img {
-      height: {{ 420px override }};
+      height: 320px;
     }
   </style>
-  <section class="page-banner">
+  <style>
+    .custom-banner-class {
+      height: 320px;
+    }
+  </style>
+  <section class="custom-banner-class">
     <div class="page-banner-img">
       {%- if banner_video -%}
         <video
