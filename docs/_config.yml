@@ -23,7 +23,7 @@ baseurl: "/roscon2023-landing-page" # the subpath of your site, e.g. /blog
 url: "https://robotecai.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
-remote_theme: jekyll-theme-yat
+remote_theme: "jeffreytse/jekyll-theme-yat"
 
 copyright: Copyright &copy; 2023 Robotec.ai
 
