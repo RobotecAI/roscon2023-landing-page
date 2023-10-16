@@ -24,8 +24,6 @@ url: "https://robotecai.github.io/" # the base hostname & protocol for your site
 
 # Build settings
 theme: minima
-plugins:
-  - jekyll-feed
 
 copyright: Copyright &copy; 2023 Robotec.ai
 
