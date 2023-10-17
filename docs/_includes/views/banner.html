@@ -76,50 +76,21 @@
   <style>
     .custom-banner-class {
       height: 320px;
+      width: auto;
+      text-align:center
+    }
+    .page-banner-img {
+      height: 320px;
+      text-align:center;
     }
     .custom-paceholder {
       height: 320px;
+      width: auto;
     }
   </style>
   <section class="custom-banner-class">
     <div class="page-banner-img">
-      {%- if banner_video -%}
-        <video
-          autoplay=""
-          poster="{{ banner_image }}"
-          playsinline
-        >
-          <source src="{{ banner_video }}">
-        </video>
-        <script>
-          (function() {
-            var video = document.querySelector('.page-banner .page-banner-img > video');
-            var videoPlay = function() {
-              video.play().catch (function() {
-                  video.muted = true;
-                  video.play();
-                });
-            }
-
-            video.onloadstart = function() {
-              video.currentTime = {{ banner_start_at }};
-              video.volume = {{ banner_volume }};
-              video.muted = (video.volume == 0);
-              videoPlay();
-            }
-
-            video.onended = function() {
-              video.currentTime = {{ banner_start_at }};
-              video.volume = 0;
-            {%- if banner_loop -%}
-              video.play();
-            {%- endif -%}
-            }
-          })();
-        </script>
-      {%- else -%}
-        <img class="custom-placeholder" src="{{ banner_image }}">
-      {%- endif -%}
+      <img class="custom-placeholder" style="height: 320px" src="{{ banner_image }}">
     </div>
   </section>
 {%- endif -%}
