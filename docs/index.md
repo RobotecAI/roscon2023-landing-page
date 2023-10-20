@@ -13,8 +13,10 @@ TBD
 ## Demo video
 
 <a href="https://www.youtube.com/watch?v=Tphp4-Fl1MQ">
-  <img src="https://img.youtube.com/vi/Tphp4-Fl1MQ/2.jpg" alt="Video Thumbnail" width="480" height="360">
+  <img src="https://img.youtube.com/vi/Tphp4-Fl1MQ/hqdefault.jpg" alt="Video Thumbnail" width="480" height="360">
 </a>
+
+
 
 [Youtube link](https://www.youtube.com/watch?v=Tphp4-Fl1MQ)
 
