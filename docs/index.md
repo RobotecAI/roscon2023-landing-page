@@ -8,7 +8,7 @@ You can learn more about Open 3D Engine by visiting two booths:
 
 ## Presentation slides
 
-TBD
+[PDF version](O3DE_Adam_Dabrowski_ROSCon2023.pdf)
 
 ## Demo video
 
