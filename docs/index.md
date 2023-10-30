@@ -12,13 +12,13 @@ You can learn more about Open 3D Engine by visiting two booths:
 
 ## Demo video
 
-<a href="https://www.youtube.com/watch?v=Tphp4-Fl1MQ">
-  <img src="https://img.youtube.com/vi/Tphp4-Fl1MQ/hqdefault.jpg" alt="Video Thumbnail" width="480" height="360">
+<a href="https://www.youtube.com/watch?v=2sQuCFNAHe8">
+  <img src="https://img.youtube.com/vi/2sQuCFNAHe8/hqdefault.jpg" alt="Video Thumbnail" width="480" height="360">
 </a>
 
 
 
-[Youtube link](https://www.youtube.com/watch?v=Tphp4-Fl1MQ)
+[Youtube link](https://www.youtube.com/watch?v=2sQuCFNAHe8)
 
 ## Demo project
 
